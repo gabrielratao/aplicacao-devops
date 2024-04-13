@@ -3,8 +3,9 @@ const app = express()
 
 let data = {
     'integrantes':[
-        {'nome': 'Mara Júlia Ávila'},
-        {'nome': 'Gabriel Ratão'}
+        {'nome': 'Mara Júlia Ávila', 'idade': 24},
+        {'nome': 'Gabriel Ratão', 'idade': 24},
+        {'nome': 'Claudio Dalla Valle', 'idade': 48}
     ]
 }
 
