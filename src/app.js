@@ -8,6 +8,11 @@ let data = {
     ]
 }
 
+// Endpoint para o retornar a pagina index.html
+app.get('/', (req,res) => {
+    res.sendFile('view/index.html', {root: __dirname});
+});
+
 app.get('/integrantes', (req, res) => {
     res.json(data)
 })
