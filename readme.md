@@ -30,5 +30,5 @@ Agora seu ambiente está pronto para executar a aplicação. O próximo passo é
     node src/app.js
 
 Nesse momento você pode realizar requisições em seu navegador dos dois endpoint presentes, são eles:
-- localhost/3000     => Irá retornar uma página HTML de saudações;
-- localhost/3000/integrantes => Irá retornar o nome completo de todos os integrantes do grupo.
+- localhost:3000     => Irá retornar uma página HTML de saudações;
+- localhost:3000/integrantes => Irá retornar o nome completo de todos os integrantes do grupo.
