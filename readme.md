@@ -11,6 +11,8 @@ Esse projeto tem como objetivo:
 ## 🛠 Integrantes
 - Mara Júlia
 - Gabriel Ratão
+- Claudio Valle
+- Tiago Dalbosco
 
 
 ## 🚀 Como utilizar a Aplicação
